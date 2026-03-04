@@ -1,0 +1,6 @@
+paper_submission/
+AGENT.md
+submission_instructions.md
+.DS_Store
+config/
+.env*

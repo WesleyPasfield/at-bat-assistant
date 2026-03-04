@@ -1,0 +1,1 @@
+{"version":"Manifest","guid":"<your_app_guid>","origId":-1,"name":"manifest.mf"}
